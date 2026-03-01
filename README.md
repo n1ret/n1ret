@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software developer who enjoys breaking things in new and creative ways, then blaming the tools.
+
 - 🦀 **Rust** fanboy — yes, I fight the borrow checker for fun. No, I don't need help.
 - 🏹 I use **Arch**, by the way *(had to mention it, it's literally in the contract)*
 - 🏆 The **only person** who solved the [Stacks problem on Timus in Rust](https://acm.timus.ru/rating.aspx?space=1&num=1220&lang=rust) — a title I hold with both pride and mild concern about the state of competitive Rust programming
@@ -18,3 +20,7 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=n1ret&theme=dark)](https://git.io/streak-stats)
+
+---
+
+<sub>Some parts of this README were generated with AI assistance based on repository content.</sub>
