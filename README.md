@@ -2,7 +2,7 @@
 
 Software developer who enjoys breaking things in new and creative ways, then blaming the tools.
 
-- 🦀 **Rust** fanboy — yes, I fight the borrow checker for fun. No, I don't need help.
+- 🦀 **Rust** femboy — yes, I fight the borrow checker for fun. No, I don't need help.
 - 🏹 I use **Arch**, by the way *(had to mention it, it's literally in the contract)*
 - 🏆 The **only person** who solved the [Stacks problem on Timus in Rust](https://acm.timus.ru/rating.aspx?space=1&num=1220&lang=rust) — a title I hold with both pride and mild concern about the state of competitive Rust programming
 - 📝 **NeoVim** user with a [LazyVim config](https://github.com/n1ret/nvim-config) — because apparently a regular text editor would be too easy
